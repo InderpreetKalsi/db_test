@@ -1,0 +1,9 @@
+D:\E-Drive\Project MFG\mfg_db_project\mfg_db_dev\mfg_db_dev\bin\Debug\mfg_db_dev.dacpac
+D:\E-Drive\Project MFG\mfg_db_project\mfg_db_dev\mfg_db_dev\bin\Debug\mfg_db_dev.dll
+D:\E-Drive\Project MFG\mfg_db_project\mfg_db_dev\mfg_db_dev\bin\Debug\mfg_db_dev.pdb
+D:\E-Drive\Project MFG\mfg_db_project\mfg_db_dev\mfg_db_dev\obj\Debug\mfg_db_dev.dll
+D:\E-Drive\Project MFG\mfg_db_project\mfg_db_dev\mfg_db_dev\obj\Debug\mfg_db_dev.pdb
+D:\E-Drive\Project MFG\mfg_db_project\mfg_db_dev\mfg_db_dev\obj\Debug\Model.xml
+D:\E-Drive\Project MFG\mfg_db_project\mfg_db_dev\mfg_db_dev\obj\Debug\refactor.xml
+D:\E-Drive\Project MFG\mfg_db_project\mfg_db_dev\mfg_db_dev\obj\Debug\postdeploy.sql
+D:\E-Drive\Project MFG\mfg_db_project\mfg_db_dev\mfg_db_dev\obj\Debug\predeploy.sql

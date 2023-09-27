@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="59c19596-9db7-4f9e-b063-1daf25558935" ChangeDateTime="09/26/2023 09:15:10">
+    <Property Name="ElementName" Value="[dbo].[PK_mfgTable1]" />
+    <Property Name="ElementType" Value="SqlPrimaryKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[mfgTable1]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[PK_mfgTable1_Id]" />
+  </Operation>
+</Operations>
